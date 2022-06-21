@@ -219,6 +219,8 @@ netflix -= 7
 
 let newTotal = netflix + hulu + disneyPlus + youtubePremium + peacock
 
+console.log(newTotal);
+
 
 ///// PROBLEM 9: Bonus Section /////
 /*
